@@ -1,2 +1,2 @@
 # About-Paramjeet
-About me using HTML only
+About me
